@@ -1,6 +1,7 @@
 # 📌About Me :
 Hi everyone 👋, I'm **Trần Tấn Thịnh** 💎
-👉 **AI & Data Science Enthusiast | Lifelong Learner** 🥰💓
+
+### 👉 **AI & Data Science Enthusiast | Lifelong Learner** 🥰💓
 
 💡 Interests: Passionate about leveraging AI to solve real-world problems, with a focus on machine/deep learning research and ethical AI development.
 
