@@ -1,4 +1,4 @@
-# 📌About Me :
+# 📌About Me 
 ### 👉 **AI & Data Science Enthusiast | Lifelong Learner** 🥰💓
 Hi everyone 👋, I'm **Trần Tấn Thịnh** 💎
 
@@ -23,6 +23,6 @@ Hi everyone 👋, I'm **Trần Tấn Thịnh** 💎
 # ☎️ Contacts:
 📫 Email: tttiuem2k3@gmail.com
 
-🏠 Linkedin: https://www.linkedin.com/in/thinh-tran-04122k3/
+🏠 Linkedin: [Thịnh Trần](https://www.linkedin.com/in/thinh-tran-04122k3/)
 
-📞 Phone number: +84 0329966939
+📞 Phone number - 💬 Zalo: +84 0329966939
