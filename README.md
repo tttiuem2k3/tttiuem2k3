@@ -25,4 +25,4 @@ Hi everyone 👋, I'm **Trần Tấn Thịnh** 💎
 
 🏠 Linkedin: [Thịnh Trần](https://www.linkedin.com/in/thinh-tran-04122k3/)
 
-📞 Phone number - 💬 Zalo: +84 329966939
+📞 Phone number - 💬 Zalo: +84 329966939 | +84 336639775
