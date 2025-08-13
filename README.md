@@ -27,13 +27,25 @@
   </a>
 </p>
 
-<!-- Strip icon kỹ năng (tinh gọn, chuyên nghiệp) -->
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,nodejs,express,react,java,qt,android,js,html,css,postgres,mysql,mongodb,aws,azure,firebase,docker,linux,git&perline=13"
-    alt="Core tech icons"
-  />
-</p>
+<!-- Career Highlights -->
+<table align="center">
+  <tr>
+    <td align="center"><b>🏢 Internship at VNPT-IT</b><br><sub>3 months in AI — Text-to-Speech (TTS) systems</sub></td>
+    <td align="center"><b>💻 AI Specialization</b><br><sub>NLP · Computer Vision · ML/DL</sub></td>
+    <td align="center"><b>🌐 Web Development</b><br><sub>HTML · JavaScript · React · Spring Boot · Node.js</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend Development</b><br><sub>Python · Java</sub></td>
+    <td align="center"><b>📱 Cross-platform Apps</b><br><sub>Android (Java/Kotlin) · Java Swing · C# · Unity</sub></td>
+    <td align="center"><b>🔌 IoT Solutions</b><br><sub>Arduino · ESP32 · Raspberry Pi</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Cloud & Deployment</b><br><sub>AWS · Azure · Firebase · Docker</sub></td>
+    <td align="center"><b>📈 Impact-driven</b><br><sub>From research to production-ready solutions</sub></td>
+    <td align="center"><b>🤝 Collaboration</b><br><sub>Agile · Cross-functional teamwork</sub></td>
+  </tr>
+</table>
+
 
 <!-- Dải phân tách -->
 <p align="center">
