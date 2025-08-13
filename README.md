@@ -1,47 +1,43 @@
-<!-- Clean professional header — no profile counter, no followers, only Gmail + LinkedIn -->
-
-<!-- Top wave banner -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:36BCF7,100:7C3AED&text=Tran%20Tan%20Thinh&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
-    alt="Header banner - Tran Tan Thinh"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,100:7C3AED&text=Tran%20Tan%20Thinh&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
+    alt="Tran Tan Thinh — Header"
   />
 </p>
 
+<!-- Chức danh -->
 <h3 align="center">
   <b>AI & Data Science Engineer</b> · NLP · Computer Vision · ML/DL · Web/Mobile
 </h3>
 
-<!-- Typing headline -->
+<!-- Gõ chữ động (điểm nhấn hiện đại) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2400&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=End-to-end+ML%3A+from+data+to+deployment;Clean+engineering+%7C+Responsible+AI;Open+to+full-time+opportunities"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2300&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=End-to-end+ML%3A+data%E2%86%92deployment;Clean+engineering+%26+Responsible+AI;Shipping+useful%2C+measurable+impact"
     alt="Typing headline"
   />
 </p>
 
-<!-- Contact (Gmail + LinkedIn only) -->
+<!-- CTA tối giản: chỉ LinkedIn -->
 <p align="center">
-  <a href="mailto:tttiuem2k3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
   <a href="https://www.linkedin.com/in/thinh-tran-04122k3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Message-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-14B8A6?style=plastic&logo=seedling&logoColor=white" alt="Open to opportunities">
 </p>
 
-<!-- Compact tech icon strip (optional, giữ nếu bạn thích dải icon gọn gàng) -->
+<!-- Strip icon kỹ năng (tinh gọn, chuyên nghiệp) -->
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,nodejs,express,react,java,cpp,js,ts,html,css,qt,postgres,mysql,mongodb,aws,azure,firebase,docker,linux,git&perline=13"
-    alt="Tech icons"
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,nodejs,express,react,java,qt,js,ts,html,css,postgres,mysql,mongodb,aws,azure,firebase,docker,linux,git&perline=13"
+    alt="Core tech icons"
   />
 </p>
 
-<!-- Bottom wave separator -->
+<!-- Dải phân tách -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,100:36BCF7&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7C3AED,100:0EA5E9&section=footer"
     alt="Section divider"
   />
 </p>
