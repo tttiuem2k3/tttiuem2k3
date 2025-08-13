@@ -170,8 +170,8 @@ Focus: **NLP**, **Computer Vision**, **Machine/Deep Learning**, **Data Engineeri
 ---
 
 ## ☎️ Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinh-tran-04122k3/)
-**Gmail:** tttiuem2k3@gmail.com
-**Phone / Zalo:** +84&nbsp;329&nbsp;966&nbsp;939 &nbsp;|&nbsp; +84&nbsp;336&nbsp;639&nbsp;775
+- **Linkedin:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinh-tran-04122k3/)
+- **Gmail:** tttiuem2k3@gmail.com
+- **Phone / Zalo:** +84&nbsp;329&nbsp;966&nbsp;939 &nbsp;|&nbsp; +84&nbsp;336&nbsp;639&nbsp;775
 
 ---
