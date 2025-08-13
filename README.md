@@ -7,15 +7,16 @@
 
 <!-- Chức danh -->
 <h3 align="center">
-  <b>AI & Data Science Engineer</b> · NLP · Computer Vision · ML/DL · Web/Mobile
+  <b>AI & Data Science Engineer</b> · NLP · Computer Vision · ML/DL · Web/Mobile · IOT
 </h3>
 
 <!-- Gõ chữ động (điểm nhấn hiện đại) -->
 <p align="center">
   <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2300&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Data+Scientist;NLP+%7C+Computer+Vision+%7C+ML%2FDL;From+Data+Engineering+to+AI+Deployment;Innovating+with+Ethical+%26+Responsible+AI;Turning+Data+into+Impactful+Solutions"
-  alt="Typing headline"
-/>
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2300&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Data+Scientist;NLP+%7C+Computer+Vision+%7C+ML%2FDL;Web+%26+Mobile+App+Development;Android+Java+%7C+Java+Swing;IoT+%26+Embedded+Systems;From+Data+Engineering+to+AI+Deployment;Innovating+with+Ethical+%26+Responsible+AI;Turning+Data+into+Impactful+Solutions"
+    alt="Typing headline"
+  />
+
 
 </p>
 
@@ -54,14 +55,14 @@ I’m seeking roles in **AI/ML Engineering** or **Data Science**, collaborating 
 - **NLP & LLMs:** classification, extraction, embeddings, prompt design, fine‑tuning; rigorous evaluation.  
 - **Computer Vision:** detection/recognition, augmentation, classical CV + deep learning hybrids.  
 - **Productization:** experiment tracking, packaging, CI/CD, REST serving, observability.  
-- **Web/Mobile Integration:** APIs with **FastAPI/Django/Flask/Node.js**; simple frontends or mobile prototypes when needed.  
+- **Web/Mobile Integration:** APIs with **FastAPI/Django/Flask/Node.js**; simple frontends or mobile (android) prototypes when needed.  
 - **Data & Cloud:** SQL/NoSQL modeling, ETL/ELT; deployments on **AWS/Azure/Firebase** with **Docker**.  
 - **Ways of Working:** Git, readable docs, practical tests, and clear stakeholder communication.
 
 ---
 
 ## 🎓 Education
-**Bach Khoa University (University of Technology)** — B.Eng., Data Science & Artificial Intelligence  
+**Bach Khoa University (University of Technology)** — Data Science & Artificial Intelligence  
 Focus: **NLP**, **Computer Vision**, **Machine/Deep Learning**, **Data Engineering**, **Responsible AI**
 
 ---
@@ -157,19 +158,8 @@ Focus: **NLP**, **Computer Vision**, **Machine/Deep Learning**, **Data Engineeri
 ---
 
 ## ☎️ Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:tttiuem2k3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinh-tran-04122k3/)
-
+**Gmail:** tttiuem2k3@gmail.com
 **Phone / Zalo:** +84&nbsp;329&nbsp;966&nbsp;939 &nbsp;|&nbsp; +84&nbsp;336&nbsp;639&nbsp;775
 
 ---
-
-<!-- Optional: add a PDF resume link here -->
-<!-- **Resume:** [Download CV](./TranTanThinh_CV.pdf) -->
-
-<!--
-  Tips:
-  1) Replace <YOUR_GITHUB_USERNAME> everywhere.
-  2) For the snake animation, follow the standard GitHub Action workflows used by the community.
-  3) Keep Featured Projects concise with clear outcomes and metrics.
--->
