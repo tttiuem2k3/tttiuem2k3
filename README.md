@@ -13,7 +13,7 @@
 <!-- Gõ chữ động (điểm nhấn hiện đại) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2300&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Data+Scientist;NLP+%7C+Computer+Vision+%7C+ML%2FDL;Web+%26+Mobile+App+Development;Android+Java+%7C+Java+Swing;IoT+%26+Embedded+Systems;From+Data+Engineering+to+AI+Deployment;Innovating+with+Ethical+%26+Responsible+AI;Turning+Data+into+Impactful+Solutions"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2300&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Data+Scientist;NLP+%7C+Computer+Vision+%7C+ML%2FDL;Web+%26+Mobile+App+Development;Android+Kotlin+%7C+Java+Swing;IoT+%26+Embedded+Systems;From+Data+Engineering+to+AI+Deployment;Innovating+with+Ethical+%26+Responsible+AI;Turning+Data+into+Impactful+Solutions"
     alt="Typing headline"
   />
 
@@ -30,7 +30,7 @@
 <!-- Strip icon kỹ năng (tinh gọn, chuyên nghiệp) -->
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,nodejs,express,react,java,qt,js,ts,html,css,postgres,mysql,mongodb,aws,azure,firebase,docker,linux,git&perline=13"
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,nodejs,express,react,java,qt,android,js,html,css,postgres,mysql,mongodb,aws,azure,firebase,docker,linux,git&perline=13"
     alt="Core tech icons"
   />
 </p>
