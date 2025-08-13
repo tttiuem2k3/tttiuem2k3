@@ -1,28 +1,64 @@
 <!--
-  Replace all placeholders like <YOUR_GITHUB_USERNAME> and <YOUR_EMAIL> before publishing.
-  Pro-tip: keep sections collapsible so recruiters see the highlights first.
+  Replace placeholders like <YOUR_GITHUB_USERNAME>, <PORTFOLIO_URL>, <RESUME_URL> before publishing.
+  Keep the header minimal but dynamic; effects below are widely used and render well on GitHub.
 -->
 
-<h1 align="center">Tran Tan Thinh (Trần Tấn Thịnh)</h1>
-
+<!-- Top wave banner -->
 <p align="center">
-  <b>AI & Data Science Engineer</b> — NLP · Computer Vision · ML/DL · Web/Mobile
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:36BCF7,100:7C3AED&text=Tran%20Tan%20Thinh&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
+    alt="Header banner - Tran Tan Thinh"
+  />
 </p>
 
+<h3 align="center">
+  <b>AI & Data Science Engineer</b> · NLP · Computer Vision · ML/DL · Web/Mobile
+</h3>
+
+<!-- Typing headline -->
 <p align="center">
-  <!-- Typing effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+impactful+AI+products;End-to-end+ML+from+data+to+deployment;Clean+engineering+%7C+Responsible+AI;Open+to+full-time+opportunities" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2400&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=End-to-end+ML%3A+from+data+to+deployment;Clean+engineering+%7C+Responsible+AI;Open+to+full-time+opportunities"
+    alt="Typing headline"
+  />
 </p>
 
+<!-- Quick actions -->
 <p align="center">
-  <!-- Quick action badges -->
   <a href="mailto:tttiuem2k3@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire%20me!-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/thinh-tran-04122k3/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&style=plastic&color=blue" alt="Profile views">
+  <a href="<PORTFOLIO_URL>">
+    <img src="https://img.shields.io/badge/Portfolio-View-111111?style=plastic&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="<RESUME_URL>">
+    <img src="https://img.shields.io/badge/Resume-Download-2E7D32?style=plastic&logo=googledrive&logoColor=white" alt="Resume">
+  </a>
+</p>
+
+<!-- Meta badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&style=plastic&color=0A66C2&label=Profile%20Views" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/<YOUR_GITHUB_USERNAME>?label=Followers&style=plastic" alt="GitHub followers">
+</p>
+
+<!-- Compact skill icons preview (subtle, professional) -->
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,nodejs,express,react,java,cpp,js,ts,html,css,qt,postgres,mysql,mongodb,aws,azure,firebase,docker,linux,git&perline=13"
+    alt="Tech icon strip"
+  />
+</p>
+
+<!-- Bottom wave separator -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,100:36BCF7&section=footer"
+    alt="Section divider"
+  />
 </p>
 
 ---
@@ -120,48 +156,6 @@ Focus: **NLP**, **Computer Vision**, **Machine/Deep Learning**, **Data Engineeri
   <p>
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,postgres,mysql,mongodb,aws,azure,docker,linux,git,fastapi,django,flask,nodejs,express,react,qt,java,r,cpp,js,html,css&perline=13" alt="skill icons" />
   </p>
-</details>
-
----
-
-## 📌 Featured Projects
-> Replace the placeholders with your real repos — recruiters love concise outcomes and clear metrics.
-
-- **[NLP/LLM Project — <RepoName>](https://github.com/<YOUR_GITHUB_USERNAME>/<REPO>)**  
-  Outcome: e.g., *reduced manual review time by 35%*.  
-  *Tech:* Python, PyTorch/TensorFlow, scikit‑learn, FastAPI  
-  *Notes:* problem → approach → key metrics → impact
-
-- **[Computer Vision Project — <RepoName>](https://github.com/<YOUR_GITHUB_USERNAME>/<REPO>)**  
-  Outcome: e.g., *92% mAP on a custom dataset*.  
-  *Tech:* PyTorch, OpenCV, Albumentations, Docker  
-  *Notes:* dataset → model → evaluation → deployment
-
-- **[Forecasting/Analytics — <RepoName>](https://github.com/<YOUR_GITHUB_USERNAME>/<REPO>)**  
-  Outcome: e.g., *−18% MAPE vs. baseline; weekly dashboard for stakeholders*.  
-  *Tech:* Pandas, scikit‑learn/Prophet, PostgreSQL, Flask
-
-<details>
-  <summary><b>📊 Optional: Repo Cards (auto)</b></summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=<YOUR_GITHUB_USERNAME>&repo=<REPO>&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=<YOUR_GITHUB_USERNAME>&repo=<REPO>&theme=default" />
-</details>
-
----
-
-## 📈 Stats & Activity
-<details>
-  <summary><b>Show GitHub stats</b></summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=<YOUR_GITHUB_USERNAME>&hide_longest_streak=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&langs_count=10" alt="Top Languages" />
-  <br><br>
-  <!-- Fun: contribution snake (enable GitHub Actions in your repo to generate the SVG) -->
-  <img src="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>/output/snake.svg" alt="snake animation"/>
 </details>
 
 ---
