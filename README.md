@@ -1,7 +1,4 @@
-<!--
-  Replace placeholders like <YOUR_GITHUB_USERNAME>, <PORTFOLIO_URL>, <RESUME_URL> before publishing.
-  Keep the header minimal but dynamic; effects below are widely used and render well on GitHub.
--->
+<!-- Clean professional header — no profile counter, no followers, only Gmail + LinkedIn -->
 
 <!-- Top wave banner -->
 <p align="center">
@@ -23,33 +20,21 @@
   />
 </p>
 
-<!-- Quick actions -->
+<!-- Contact (Gmail + LinkedIn only) -->
 <p align="center">
   <a href="mailto:tttiuem2k3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20me!-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/thinh-tran-04122k3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="<PORTFOLIO_URL>">
-    <img src="https://img.shields.io/badge/Portfolio-View-111111?style=plastic&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="<RESUME_URL>">
-    <img src="https://img.shields.io/badge/Resume-Download-2E7D32?style=plastic&logo=googledrive&logoColor=white" alt="Resume">
+    <img src="https://img.shields.io/badge/LinkedIn-Message-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<!-- Meta badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&style=plastic&color=0A66C2&label=Profile%20Views" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/<YOUR_GITHUB_USERNAME>?label=Followers&style=plastic" alt="GitHub followers">
-</p>
-
-<!-- Compact skill icons preview (subtle, professional) -->
+<!-- Compact tech icon strip (optional, giữ nếu bạn thích dải icon gọn gàng) -->
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,nodejs,express,react,java,cpp,js,ts,html,css,qt,postgres,mysql,mongodb,aws,azure,firebase,docker,linux,git&perline=13"
-    alt="Tech icon strip"
+    alt="Tech icons"
   />
 </p>
 
