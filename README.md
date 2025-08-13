@@ -1,37 +1,57 @@
-# Tran Tan Thinh (Trần Tấn Thịnh)
+<!--
+  Replace all placeholders like <YOUR_GITHUB_USERNAME> and <YOUR_EMAIL> before publishing.
+  Pro-tip: keep sections collapsible so recruiters see the highlights first.
+-->
 
-**AI & Data Science Engineer — NLP · Computer Vision · ML/DL · Web/Mobile**
-<br>He/Him · You can call me **Bin Tran**
+<h1 align="center">Tran Tan Thinh (Trần Tấn Thịnh)</h1>
+
+<p align="center">
+  <b>AI & Data Science Engineer</b> — NLP · Computer Vision · ML/DL · Web/Mobile
+</p>
+
+<p align="center">
+  <!-- Typing effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+impactful+AI+products;End-to-end+ML+from+data+to+deployment;Clean+engineering+%7C+Responsible+AI;Open+to+full-time+opportunities" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- Quick action badges -->
+  <a href="mailto:tttiuem2k3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20me!-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/thinh-tran-04122k3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&style=plastic&color=blue" alt="Profile views">
+</p>
 
 ---
 
 ## 🧭 Summary
-
-I’m a recent graduate from **Bach Khoa University (University of Technology)** in **Data Science & Artificial Intelligence**. I build data-driven products end‑to‑end: from problem framing and data pipelines to model training, evaluation, and deployment as APIs or lightweight apps. I care about **clean engineering**, **measurable impact**, and **responsible AI**.
-
-I’m actively looking for roles where I can contribute to **AI Engineering / Machine Learning Engineering / Data Science**, and collaborate with cross‑functional teams to deliver production‑ready features.
+I’m a B.Eng. in **Data Science & Artificial Intelligence** from **Bach Khoa University**. I ship data‑driven features end‑to‑end—problem framing, data pipelines, model training/evaluation, and deployment as APIs or lightweight apps. I focus on **clean engineering**, **measurable impact**, and **responsible AI**.  
+I’m seeking roles in **AI/ML Engineering** or **Data Science**, collaborating cross‑functionally to deliver production‑ready solutions.
 
 ---
 
 ## 🎯 What I Bring
-
-- **NLP & LLMs:** Text classification, information extraction, embeddings, prompt design, fine‑tuning; evaluation with robust metrics.
-- **Computer Vision:** Object/face detection and recognition, image augmentation, classical CV + deep learning hybrids.
-- **End‑to‑End Delivery:** Data wrangling, model training, experiment tracking, packaging, CI/CD, and serving via REST APIs.
-- **Web/Mobile Integration:** Ship models behind **FastAPI/Django/Flask** backends; build simple frontends or mobile prototypes when needed.
-- **Data & Cloud:** SQL/NoSQL modeling, ETL/ELT, and deployments on **AWS/Azure/Firebase** with containerization (**Docker**).
-- **Ways of Working:** Version control (**Git**), clear documentation, practical testing, and stakeholder‑friendly communication.
+- **NLP & LLMs:** classification, extraction, embeddings, prompt design, fine‑tuning; rigorous evaluation.  
+- **Computer Vision:** detection/recognition, augmentation, classical CV + deep learning hybrids.  
+- **Productization:** experiment tracking, packaging, CI/CD, REST serving, observability.  
+- **Web/Mobile Integration:** APIs with **FastAPI/Django/Flask/Node.js**; simple frontends or mobile prototypes when needed.  
+- **Data & Cloud:** SQL/NoSQL modeling, ETL/ELT; deployments on **AWS/Azure/Firebase** with **Docker**.  
+- **Ways of Working:** Git, readable docs, practical tests, and clear stakeholder communication.
 
 ---
 
 ## 🎓 Education
-
-**Bach Khoa University (University of Technology)** — B.Eng. in Data Science & Artificial Intelligence  
+**Bach Khoa University (University of Technology)** — B.Eng., Data Science & Artificial Intelligence  
 Focus: **NLP**, **Computer Vision**, **Machine/Deep Learning**, **Data Engineering**, **Responsible AI**
 
 ---
 
 ## 🛠 Tech Stack
+
+> Prefer the **badge view**? You’re in the right place. Prefer icons? See the alternative view in the collapsible section below.
 
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -60,16 +80,20 @@ Focus: **NLP**, **Computer Vision**, **Machine/Deep Learning**, **Data Engineeri
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
 
 **Backend / APIs / Frameworks**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-**Frontend / UI**  
+**Frontend / UI / Desktop**  
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-%23ED8B00?style=plastic&logo=java&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
@@ -90,17 +114,65 @@ Focus: **NLP**, **Computer Vision**, **Machine/Deep Learning**, **Data Engineeri
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
 
+<details>
+  <summary><b>🔎 Alternative Tech Stack View (icons)</b></summary>
+  <br>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,postgres,mysql,mongodb,aws,azure,docker,linux,git,fastapi,django,flask,nodejs,express,react,qt,java,r,cpp,js,html,css&perline=13" alt="skill icons" />
+  </p>
+</details>
+
+---
+
+## 📌 Featured Projects
+> Replace the placeholders with your real repos — recruiters love concise outcomes and clear metrics.
+
+- **[NLP/LLM Project — <RepoName>](https://github.com/<YOUR_GITHUB_USERNAME>/<REPO>)**  
+  Outcome: e.g., *reduced manual review time by 35%*.  
+  *Tech:* Python, PyTorch/TensorFlow, scikit‑learn, FastAPI  
+  *Notes:* problem → approach → key metrics → impact
+
+- **[Computer Vision Project — <RepoName>](https://github.com/<YOUR_GITHUB_USERNAME>/<REPO>)**  
+  Outcome: e.g., *92% mAP on a custom dataset*.  
+  *Tech:* PyTorch, OpenCV, Albumentations, Docker  
+  *Notes:* dataset → model → evaluation → deployment
+
+- **[Forecasting/Analytics — <RepoName>](https://github.com/<YOUR_GITHUB_USERNAME>/<REPO>)**  
+  Outcome: e.g., *−18% MAPE vs. baseline; weekly dashboard for stakeholders*.  
+  *Tech:* Pandas, scikit‑learn/Prophet, PostgreSQL, Flask
+
+<details>
+  <summary><b>📊 Optional: Repo Cards (auto)</b></summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=<YOUR_GITHUB_USERNAME>&repo=<REPO>&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=<YOUR_GITHUB_USERNAME>&repo=<REPO>&theme=default" />
+</details>
+
+---
+
+## 📈 Stats & Activity
+<details>
+  <summary><b>Show GitHub stats</b></summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=<YOUR_GITHUB_USERNAME>&hide_longest_streak=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&langs_count=10" alt="Top Languages" />
+  <br><br>
+  <!-- Fun: contribution snake (enable GitHub Actions in your repo to generate the SVG) -->
+  <img src="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>/output/snake.svg" alt="snake animation"/>
+</details>
+
 ---
 
 ## 🤝 Collaboration & Interests
-
 - Open to **full‑time roles**, **research collaborations**, and **open‑source** contributions.  
-- Interests: applied AI, ethical/secure AI, ML for products, and yes—**anime** 🧡 (always up for recommendations).
+- Interests: applied AI, secure/ethical AI, ML for products — and yes, **anime** (recommendations welcome).
 
 ---
 
 ## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinh-tran-04122k3/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://www.facebook.com/thinh.trantan.908)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/ttt2k3.412/)
@@ -110,14 +182,19 @@ Focus: **NLP**, **Computer Vision**, **Machine/Deep Learning**, **Data Engineeri
 ---
 
 ## ☎️ Contact
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:tttiuem2k3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinh-tran-04122k3/)
 
-**Phone / Zalo:** +84 329 966 939 | +84 336 639 775
+**Phone / Zalo:** +84&nbsp;329&nbsp;966&nbsp;939 &nbsp;|&nbsp; +84&nbsp;336&nbsp;639&nbsp;775
 
 ---
 
-<!-- Optional: add a PDF resume link here
-**Resume:** [Download CV](./TranTanThinh_CV.pdf)
+<!-- Optional: add a PDF resume link here -->
+<!-- **Resume:** [Download CV](./TranTanThinh_CV.pdf) -->
+
+<!--
+  Tips:
+  1) Replace <YOUR_GITHUB_USERNAME> everywhere.
+  2) For the snake animation, follow the standard GitHub Action workflows used by the community.
+  3) Keep Featured Projects concise with clear outcomes and metrics.
 -->
