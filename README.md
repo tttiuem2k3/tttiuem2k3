@@ -13,9 +13,10 @@
 <!-- Gõ chữ động (điểm nhấn hiện đại) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2300&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=End-to-end+ML%3A+data%E2%86%92deployment;Clean+engineering+%26+Responsible+AI;Shipping+useful%2C+measurable+impact"
-    alt="Typing headline"
-  />
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2300&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Data+Scientist;NLP+%7C+Computer+Vision+%7C+ML%2FDL;From+Data+Engineering+to+AI+Deployment;Innovating+with+Ethical+%26+Responsible+AI;Turning+Data+into+Impactful+Solutions"
+  alt="Typing headline"
+/>
+
 </p>
 
 <!-- CTA tối giản: chỉ LinkedIn -->
@@ -23,7 +24,6 @@
   <a href="https://www.linkedin.com/in/thinh-tran-04122k3/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-14B8A6?style=plastic&logo=seedling&logoColor=white" alt="Open to opportunities">
 </p>
 
 <!-- Strip icon kỹ năng (tinh gọn, chuyên nghiệp) -->
