@@ -74,7 +74,7 @@ I’m seeking roles in **AI/ML Engineering** or **Data Science**, collaborating 
 ---
 
 ## 🎓 Education
-**Bach Khoa University (University of Technology)** — Data Science & Artificial Intelligence  
+**University of Science and Technology – The University of Danang** — Data Science & Artificial Intelligence  
 Focus: **NLP**, **Computer Vision**, **Machine/Deep Learning**, **Data Engineering**, **Responsible AI**
 
 ---
