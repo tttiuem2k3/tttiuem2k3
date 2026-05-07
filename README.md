@@ -31,18 +31,18 @@
 <table align="center">
   <tr>
     <td align="center"><b>🏢 Internship at VNPT-IT</b><br><sub>3 months in AI — Text-to-Speech (TTS) systems</sub></td>
+    <td align="center"><b>🏆 Asoft AI Engineer</b><br><sub>Outstanding Performer 2025</sub></td>
     <td align="center"><b>💻 AI Specialization</b><br><sub>NLP · Computer Vision · ML/DL</sub></td>
-    <td align="center"><b>🌐 Web Development</b><br><sub>HTML · JavaScript · React · Spring Boot · Node.js</sub></td>
   </tr>
   <tr>
+    <td align="center"><b>🌐 Web Development</b><br><sub>HTML · JavaScript · React · Spring Boot · Node.js</sub></td>
     <td align="center"><b>⚙️ Backend Development</b><br><sub>Python · Java</sub></td>
     <td align="center"><b>📱 Cross-platform Apps</b><br><sub>Android (Java/Kotlin) · Java Swing · C# · Unity</sub></td>
-    <td align="center"><b>🔌 IoT Solutions</b><br><sub>Arduino · ESP32 · Raspberry Pi</sub></td>
   </tr>
   <tr>
+    <td align="center"><b>🔌 IoT Solutions</b><br><sub>Arduino · ESP32 · Raspberry Pi</sub></td>
     <td align="center"><b>☁️ Cloud & Deployment</b><br><sub>AWS · Azure · Firebase · Docker</sub></td>
-    <td align="center"><b>📈 Impact-driven</b><br><sub>From research to production-ready solutions</sub></td>
-    <td align="center"><b>🤝 Collaboration</b><br><sub>Agile · Cross-functional teamwork</sub></td>
+    <td align="center"><b>🚀 Impact & Teamwork</b><br><sub>Research → Production · Agile delivery</sub></td>
   </tr>
 </table>
 
