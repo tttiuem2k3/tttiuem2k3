@@ -30,7 +30,7 @@
 <!-- Career Highlights -->
 <table align="center">
   <tr>
-    <td align="center"><b>🏢 Internship at VNPT-IT</b><br><sub>3 months in AI — Text-to-Speech (TTS) systems</sub></td>
+    <td align="center"><b>🏢 VNPT-IT AI Engineer</b><br><sub>6 months in AI — Text-to-Speech (TTS) systems</sub></td>
     <td align="center"><b>🏆 Asoft AI Engineer</b><br><sub>Outstanding Performer 2025</sub></td>
     <td align="center"><b>💻 AI Specialization</b><br><sub>NLP · Computer Vision · ML/DL</sub></td>
   </tr>
